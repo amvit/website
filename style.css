@@ -1,0 +1,13 @@
+body {
+    background-color: yellow;
+    text-align: center;
+
+}
+
+#para {
+    border-color: darkorange;
+}
+
+.links:hover {
+    background-color: chocolate;
+}
